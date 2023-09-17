@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Felipe Ferreira</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
 - 🔭 I’m currently working on **Administration System**
 
 - 🌱 I’m currently learning **HTML, CSS, PYTHON, REACT**
